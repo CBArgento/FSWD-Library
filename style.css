@@ -33,3 +33,14 @@ body {
   .content {
       padding-top: 8px;
   }
+
+  .code {
+    background-color: lightgray;
+    margin-left: 20px;
+    margin-right: 25px;
+    padding: 10px;
+  }
+
+  .img {
+    height: 50px;
+  }
