@@ -64,3 +64,11 @@ li a:hover:not(.active) {
   width: 70px;
   height: 70px;
 }
+
+h2 {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.space {
+  padding-bottom: 30px;
+}
