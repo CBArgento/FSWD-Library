@@ -1,7 +1,7 @@
 # FSWD-Library
 
-<h1>ABOUT THE APP</h1>
-This is a library with videos, notes, and examples for Full Stack Web Dev Library.
+<h2>About the App</h2>
+This is a library with videos, notes, and examples for anyone wanting to learn Full Stack Web Development. The YouTube videos are from experienced teachers.
 
 <h2>Home Page</h2>
 <p>The home page contains a list of all the page's topics.</p>
