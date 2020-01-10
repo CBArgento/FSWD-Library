@@ -4,7 +4,7 @@
 This is a library with videos, notes, and examples for Full Stack Web Dev Library.
 
 <h2>This is the Home Page</h2>
-<img url="https://github.com/CBArgento/FSWD-Library/blob/master/assets/HomePg.PNG?raw=true" alt="Home Page Screenshot">
+<img src="https://github.com/CBArgento/FSWD-Library/blob/master/assets/HomePg.PNG?raw=true" alt="Home Page Screenshot">
 
 <br>
 
